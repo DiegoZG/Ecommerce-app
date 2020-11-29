@@ -16,7 +16,8 @@ const reducer = combineReducers({
     userDetails: userDetailsReducer,
     userUpdateProfile: userUpdateProfileReducer,
     orderCreate: orderCreateReducer,
-    orderDetails: orderDetailsReducer
+    orderDetails: orderDetailsReducer,
+    orderPay: orderPayReducer
 })
 
 const cartItemsFromStorage = localStorage.getItem('cartItems') ? JSON.parse(localStorage.getItem('cartItems')) : []
