@@ -17,7 +17,7 @@ place the order and make payments through PayPal
 12)PayPal / credit card integration
 13)Database seeder (products & users)
 
-##Sample User Logins 
+# Sample User Logins 
 
 1) admin@example.com (Admin)
    password: 123456
