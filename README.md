@@ -1,6 +1,6 @@
 # DZhop
 DZhop is an application which lets you search for the latest tech, add it to your cart, 
-place the order and make payments through PayPal
+place the order and make payments through PayPal.
 
 # Features
 1. Product search feature
